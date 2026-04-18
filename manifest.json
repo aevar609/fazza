@@ -1,0 +1,18 @@
+{
+  "name": "فزعة",
+  "short_name": "FAZ'A",
+  "description": "تطبيق فزعة",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1d25",
+  "theme_color": "#cda34f",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
